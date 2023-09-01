@@ -1,0 +1,27 @@
+1.Read a text file and display the number of vowels/consonants/ uppercase/lowercase characters in the file. 
+
+2.Remove all the lines that contain the character 'a' in a file and write it to another file. 
+
+3.Create a binary file with name and roll number. Search for a given roll number and display the name, if not found display appropriate message. 
+
+4.Create a binary file with roll number, name and marks. Input a roll number and update the marks. 
+
+5.Write a random number generator that generates random numbers between 1 and 6 (simulates a dice). 
+
+6.Create a CSV file by entering user-id and password, read and search the password for given user id
+
+7.Write a program to count the number of records in a binary file.
+
+8.Write a program to count the words “to” and “the” in text file.
+
+9.Write a program to count the number of words in a text file.
+
+10.Write a program to print only those words having word length less than 5.
+
+11.Write a program to enter file name and create its copy.
+
+12.Write a program to delete a particular word (all occurrences) entered by the user from the text file.
+
+13.Write a python program to print the longest word in a list of words.
+
+14.Write a program that appends the contents of one file into another. Enter the file names from user

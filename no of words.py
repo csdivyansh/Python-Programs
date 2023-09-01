@@ -1,0 +1,5 @@
+fp=open('abc.txt','r')
+r=fp.read()
+words=r.split()
+print(words)
+print('No of words =',len(words))
